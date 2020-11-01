@@ -1,4 +1,4 @@
-![Gregor Mathes Frontpage](https://github.com/Ischi94/Ischi94/blob/main/frontimage.png)
+![Gregor Mathes Frontpage](https://github.com/Ischi94/Ischi94/blob/main/frontimage2.png)
 
 ## My name is Gregor Mathes and I'm a PhD student in Analytical Palaeontology applying novel statistical tools to the fossil record.  
 
