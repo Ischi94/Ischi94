@@ -3,10 +3,10 @@
   
   
   
-My name is Gregor Mathes and I'm a PhD student in Analytical Palaeontology applying novel statistical tools to the fossil record.  
-  
-The goal of my research is to explore how life on Earth interacts with climate, with emphasis on applying this knowledge of the past to the current climate crisis. My PhD project is under the guidance of [Manuel Steinbauer](https://www.spowi5.uni-bayreuth.de/de/team/steinbauer/index.php), working jointly with [Wolfgang Kiessling](https://www.gzn.nat.fau.de/palaeontologie/team/professors/kiessling/).  
- 
+My name is Gregor Mathes and I'm a PostDoc in Analytical Palaeontology applying novel statistical tools to the fossil record.  
+
+The goal of my research is to explore how life on Earth interacts with climate, with emphasis on applying this knowledge of the past to the current climate crisis. 
+
 You can see what I'm currently up to on [my webpage](https://gregor-mathes.netlify.app/).  
   
 ## Contact
