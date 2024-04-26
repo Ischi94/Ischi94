@@ -10,7 +10,8 @@ The goal of my research is to explore how life on Earth interacts with climate, 
 You can see what I'm currently up to on [my webpage](https://gregor-mathes.netlify.app/).  
   
 ## Contact
- 
+
+- [Uni Zurich]([https://www.spowi5.uni-bayreuth.de/de/team/Mathes/index.php](https://www.pim.uzh.ch/apps/cms/pageframes/staff.php?show=1266))
 - [Uni Bayreuth](https://www.spowi5.uni-bayreuth.de/de/team/Mathes/index.php)
 - [Uni Erlangen](https://www.gzn.nat.fau.de/palaeontologie/team/assoziierte-wissenschaftler/gregor-mathes/)
 - [Tersane](https://cnidaria.nat.uni-erlangen.de/wp/index.php/team/researchers/manuel-steinbauer/gregor-mathes/)
